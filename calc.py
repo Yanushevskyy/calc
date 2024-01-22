@@ -85,11 +85,11 @@ def calculator():
             print("Exiting....")
             break
         else:
-            print("What actualy do you want to do?")
+            print("What actually do you want to do?")
 
 # create a list / dict
         
-
+# comment !!!
 
 start_calc()
 calculator()
